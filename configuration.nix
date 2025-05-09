@@ -80,11 +80,17 @@
 	git
 	kitty
 	hyprland
+	hyprpaper
 	rofi
-	discord
 	waybar
 	firefox
 	fastfetch
+	neofetch
+	yazi
+	btop
+	vscode
+	tree
+	jdk23
   ];
 
   fonts.packages = with pkgs; [ nerdfonts ];
